@@ -12,7 +12,7 @@ python main.py
 
 ## RAG Sequential Diagram
 
-<img width="1010" height="881" alt="image" src="https://github.com/user-attachments/assets/f4c3c2b7-bb47-4497-88fb-e8992db7ae97" />
+![roadmap](https://github.com/user-attachments/assets/f4c3c2b7-bb47-4497-88fb-e8992db7ae97)
 
 
 ## Roadmap
